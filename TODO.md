@@ -13,4 +13,6 @@ put on woutslabbinck.com
 ## TODO
 
 - [ ] remove tags blogpost
-- [ ] generate the content based on my webid profile
+- [ ] create script: generate the content based on my webid profile
+- [ ] remove logo in thumbnail
+- [ ] check out other todos
