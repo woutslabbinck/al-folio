@@ -9,3 +9,8 @@ bundle exec jekyll serve --lsi
 ```
 
 put on woutslabbinck.com
+
+## TODO
+
+- [ ] remove tags blogpost
+- [ ] generate the content based on my webid profile
