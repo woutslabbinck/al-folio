@@ -97,7 +97,7 @@
               {%- if site.enable_darkmode %}
 
               <!-- own cv -->
-              <li class="nav-item"><a class="nav-link" href="https://pod.woutslabbinck.com/profile/card#me">Cv</a></li> <!-- TODO: replace with proper cv-->
+              <li class="nav-item"><a class="nav-link" href="https://cv.woutslabbinck.com">CV</a></li> <!-- TODO: replace with proper cv-->
               <!-- Toogle theme mode -->
               <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">
