@@ -23,7 +23,7 @@ Welcome to my website!<br>
 I am a computer science engineer working as a PhD Researcher at the [University of Ghent](https://www.ugent.be/).
 As part of the [KNoWS](https://knows.idlab.ugent.be/) team, I do research in the scope of the Semantic Web and Linked Data. 
 More specifically, my research focuses on interoperability in the [Solid project](https://solidproject.org/). 
-More work related matters can be checked in my [publications](https://woutslabbinck.com/publications/) and [CV](https://cv.woutslabbinck.com/).
+More work related matters can be checked in my [publications](https://github.com/woutslabbinck/publications/) and [CV](https://cv.woutslabbinck.com/).
 
 Enough about work. In my spare time, I still like to explore the world of computers, both software and hardware. 
 I also enjoy playing sports, reading a good book and travelling around the world.
